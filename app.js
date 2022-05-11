@@ -32,7 +32,7 @@ const data = {
 // console.log(firstName, lastName, email);
 const jsonData = JSON.stringify(data);
 
-const url = "https://us14.api.mailchimp.com/3.0/lists/324c0da8e";
+const url = "https://us14.api.mailchimp.com/3.0/lists/324c0da8ee";
 const options = {
     method : "POST",
     auth: "gaurav1:31af394d5b47add446e9ae394fbf3e29-us14"
